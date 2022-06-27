@@ -1,0 +1,23 @@
+﻿@model Catalog
+
+@{
+    ViewData["Title"] = "Список товаров из каталога";
+}
+
+<h1>Всего в каталоге @Model.CDProducts.Count() товар(ов)</h1>
+
+<h1>Все товары</h1>
+<table>
+<tr>
+    <th>Id</th>    
+    <th>Name</th>
+</tr>
+ @foreach (var svc in Model.CDProducts)
+                {
+                   <tr>
+                       <td>@svc.Value.Id</td>                       
+                       <td>@svc.Value.Name</td>
+                   </tr>
+                }
+ </table>
+                
