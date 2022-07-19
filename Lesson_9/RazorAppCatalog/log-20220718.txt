@@ -1,0 +1,1748 @@
+2022-07-18 19:19:46.265 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-07-18 19:19:46.578 +03:00 [INF] Now listening on: https://localhost:7004
+2022-07-18 19:19:46.580 +03:00 [INF] Now listening on: http://localhost:5004
+2022-07-18 19:19:46.585 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-18 19:19:46.587 +03:00 [INF] Hosting environment: Development
+2022-07-18 19:19:46.589 +03:00 [INF] Content root path: D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\
+2022-07-18 19:19:48.615 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 19:19:48.743 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - - 134.3825ms
+2022-07-18 19:19:48.822 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/favicon.ico - -
+2022-07-18 19:19:48.825 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/favicon.ico - - - 200 - - 3.0682ms
+2022-07-18 19:20:04.866 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-07-18 19:20:05.156 +03:00 [INF] Now listening on: https://localhost:7004
+2022-07-18 19:20:05.159 +03:00 [INF] Now listening on: http://localhost:5004
+2022-07-18 19:20:05.165 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-18 19:20:05.167 +03:00 [INF] Hosting environment: Development
+2022-07-18 19:20:05.169 +03:00 [INF] Content root path: D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\
+2022-07-18 19:20:05.636 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 19:20:05.712 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 0 - 79.0879ms
+2022-07-18 19:20:05.746 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/favicon.ico - -
+2022-07-18 19:20:05.749 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/favicon.ico - - - 200 0 - 2.6689ms
+2022-07-18 19:38:21.596 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-07-18 19:38:21.915 +03:00 [INF] Now listening on: https://localhost:7004
+2022-07-18 19:38:21.917 +03:00 [INF] Now listening on: http://localhost:5004
+2022-07-18 19:38:21.921 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-18 19:38:21.923 +03:00 [INF] Hosting environment: Development
+2022-07-18 19:38:21.925 +03:00 [INF] Content root path: D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\
+2022-07-18 19:38:22.863 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 19:38:23.038 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - - 184.2556ms
+2022-07-18 19:38:23.111 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/favicon.ico - -
+2022-07-18 19:38:23.113 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/favicon.ico - - - 200 - - 2.5095ms
+2022-07-18 19:38:28.580 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 19:38:28.629 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-18 19:38:28.683 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller RazorAppCatalog.Controllers.HomeController (RazorAppCatalog).
+2022-07-18 19:38:28.701 +03:00 [INF] Executing ViewResult, running view Index.
+2022-07-18 19:38:29.035 +03:00 [INF] Executed ViewResult - view Index executed in 332.8001ms.
+2022-07-18 19:38:29.054 +03:00 [INF] Executed action RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog) in 365.865ms
+2022-07-18 19:38:29.060 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-18 19:38:29.071 +03:00 [INF] HTTP GET / responded 200 in 477.5209 ms
+2022-07-18 19:38:29.218 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 638.0731ms
+2022-07-18 19:38:29.233 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds - -
+2022-07-18 19:38:29.233 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/lib/bootstrap/dist/css/bootstrap.min.css - -
+2022-07-18 19:38:29.233 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - -
+2022-07-18 19:38:29.248 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2022-07-18 19:38:29.236 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/lib/jquery/dist/jquery.min.js - -
+2022-07-18 19:38:29.248 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+2022-07-18 19:38:29.254 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 19:38:29.253 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 19:38:29.291 +03:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\wwwroot\css\site.css'
+2022-07-18 19:38:29.308 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 200 194 text/css 75.2652ms
+2022-07-18 19:38:29.313 +03:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\wwwroot\js\site.js'
+2022-07-18 19:38:29.320 +03:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2022-07-18 19:38:29.291 +03:00 [INF] Sending file. Request path: '/RazorAppCatalog.styles.css'. Physical path: 'D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\obj\Debug\net6.0\scopedcss\bundle\RazorAppCatalog.styles.css'
+2022-07-18 19:38:29.320 +03:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\wwwroot\lib\jquery\dist\jquery.min.js'
+2022-07-18 19:38:29.328 +03:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2022-07-18 19:38:29.330 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 76.5816ms
+2022-07-18 19:38:29.344 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 200 230 application/javascript 96.4698ms
+2022-07-18 19:38:29.347 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/lib/bootstrap/dist/css/bootstrap.min.css - - - 200 162726 text/css 114.6927ms
+2022-07-18 19:38:29.349 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds - - - 200 1132 text/css 115.8614ms
+2022-07-18 19:38:29.351 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/lib/jquery/dist/jquery.min.js - - - 200 89478 application/javascript 114.7822ms
+2022-07-18 19:38:29.353 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 200 78474 application/javascript 108.1600ms
+2022-07-18 19:38:29.422 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 167.4459ms
+2022-07-18 19:38:29.554 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/favicon.ico - -
+2022-07-18 19:38:29.557 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\wwwroot\favicon.ico'
+2022-07-18 19:38:29.563 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/favicon.ico - - - 200 5430 image/x-icon 8.9529ms
+2022-07-18 19:38:30.570 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/AddProduct - -
+2022-07-18 19:38:30.579 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 19:38:30.584 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 19:38:30.589 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 19:38:30.621 +03:00 [INF] Executed ViewResult - view AddProduct executed in 32.1288ms.
+2022-07-18 19:38:30.624 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 36.0278ms
+2022-07-18 19:38:30.627 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 19:38:30.629 +03:00 [INF] HTTP GET /Catalog/AddProduct responded 200 in 55.1887 ms
+2022-07-18 19:38:30.638 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/AddProduct - - - 200 - text/html;+charset=utf-8 67.3886ms
+2022-07-18 19:38:30.663 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 19:38:30.663 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 19:38:30.669 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 6.4147ms
+2022-07-18 19:38:30.731 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 68.2326ms
+2022-07-18 19:38:31.130 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/RemoveProduct - -
+2022-07-18 19:38:31.138 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.RemoveProduct (RazorAppCatalog)'
+2022-07-18 19:38:31.143 +03:00 [INF] Route matched with {action = "RemoveProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RemoveProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 19:38:31.150 +03:00 [INF] Executing ViewResult, running view RemoveProduct.
+2022-07-18 19:38:31.166 +03:00 [INF] Executed ViewResult - view RemoveProduct executed in 17.2407ms.
+2022-07-18 19:38:31.168 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.RemoveProduct (RazorAppCatalog) in 20.1398ms
+2022-07-18 19:38:31.171 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.RemoveProduct (RazorAppCatalog)'
+2022-07-18 19:38:31.174 +03:00 [INF] HTTP GET /Catalog/RemoveProduct responded 200 in 38.5329 ms
+2022-07-18 19:38:31.183 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/RemoveProduct - - - 200 - text/html;+charset=utf-8 52.7815ms
+2022-07-18 19:38:31.197 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 19:38:31.197 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 19:38:31.201 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.1468ms
+2022-07-18 19:38:31.272 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 74.6529ms
+2022-07-18 19:38:31.753 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/Products - -
+2022-07-18 19:38:31.758 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 19:38:31.763 +03:00 [INF] Route matched with {action = "Products", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Products() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 19:38:31.772 +03:00 [INF] Executing ViewResult, running view Products.
+2022-07-18 19:38:31.787 +03:00 [INF] Executed ViewResult - view Products executed in 16.2592ms.
+2022-07-18 19:38:31.791 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog) in 20.2735ms
+2022-07-18 19:38:31.794 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 19:38:31.798 +03:00 [INF] HTTP GET /Catalog/Products responded 200 in 40.2436 ms
+2022-07-18 19:38:31.806 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/Products - - - 200 - text/html;+charset=utf-8 52.9544ms
+2022-07-18 19:38:31.828 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 19:38:31.828 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 19:38:31.833 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 5.1376ms
+2022-07-18 19:38:31.895 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 67.6666ms
+2022-07-18 19:38:32.154 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/AddProduct - -
+2022-07-18 19:38:32.158 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 19:38:32.161 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 19:38:32.169 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 19:38:32.181 +03:00 [INF] Executed ViewResult - view AddProduct executed in 12.2621ms.
+2022-07-18 19:38:32.186 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 17.3034ms
+2022-07-18 19:38:32.190 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 19:38:32.194 +03:00 [INF] HTTP GET /Catalog/AddProduct responded 200 in 36.1037 ms
+2022-07-18 19:38:32.201 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/AddProduct - - - 200 - text/html;+charset=utf-8 47.1305ms
+2022-07-18 19:38:32.239 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 19:38:32.239 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 19:38:32.246 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 7.7635ms
+2022-07-18 19:38:32.317 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 77.8428ms
+2022-07-18 19:38:33.855 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7004/Catalog/AddProduct application/x-www-form-urlencoded 244
+2022-07-18 19:38:33.861 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 19:38:33.898 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddProduct(Product) on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 19:38:34.162 +03:00 [INF] Продукт успешно добавлен
+2022-07-18 19:38:34.164 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 19:38:34.172 +03:00 [INF] Executed ViewResult - view AddProduct executed in 7.765ms.
+2022-07-18 19:38:34.174 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 272.8088ms
+2022-07-18 19:38:34.178 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 19:38:34.179 +03:00 [INF] HTTP POST /Catalog/AddProduct responded 200 in 318.7828 ms
+2022-07-18 19:38:34.185 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7004/Catalog/AddProduct application/x-www-form-urlencoded 244 - 200 - text/html;+charset=utf-8 330.3944ms
+2022-07-18 19:38:34.200 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 19:38:34.200 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 19:38:34.203 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 3.6819ms
+2022-07-18 19:38:34.258 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.6178ms
+2022-07-18 19:38:34.761 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/Products - -
+2022-07-18 19:38:34.766 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 19:38:34.769 +03:00 [INF] Route matched with {action = "Products", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Products() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 19:38:34.777 +03:00 [INF] Executing ViewResult, running view Products.
+2022-07-18 19:38:34.788 +03:00 [INF] Executed ViewResult - view Products executed in 10.9973ms.
+2022-07-18 19:38:34.792 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog) in 15.2504ms
+2022-07-18 19:38:34.797 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 19:38:34.800 +03:00 [INF] HTTP GET /Catalog/Products responded 200 in 33.5747 ms
+2022-07-18 19:38:34.807 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/Products - - - 200 - text/html;+charset=utf-8 45.9146ms
+2022-07-18 19:38:34.825 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 19:38:34.825 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 19:38:34.830 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 5.1464ms
+2022-07-18 19:38:34.898 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 73.0020ms
+2022-07-18 19:43:18.195 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-07-18 19:43:18.476 +03:00 [INF] Now listening on: https://localhost:7004
+2022-07-18 19:43:18.482 +03:00 [INF] Now listening on: http://localhost:5004
+2022-07-18 19:43:18.495 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-18 19:43:18.497 +03:00 [INF] Hosting environment: Development
+2022-07-18 19:43:18.499 +03:00 [INF] Content root path: D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\
+2022-07-18 19:43:19.270 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 19:43:19.464 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentEncoding(StringValues value)
+   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\Program.cs:line 67
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-07-18 19:43:19.540 +03:00 [WRN] The response has already started, the error page middleware will not be executed.
+2022-07-18 19:43:19.552 +03:00 [ERR] Connection id "0HMJ8RIF5GVBP", Request id "0HMJ8RIF5GVBP:00000001": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentEncoding(StringValues value)
+   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\Program.cs:line 67
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware.ExecuteWithFilterAsync(IHttpSocketAdapter injectScriptSocket, String requestId, HttpContext httpContext)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2022-07-18 19:43:19.568 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - - 304.8640ms
+2022-07-18 19:43:29.893 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 19:43:29.918 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentEncoding(StringValues value)
+   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\Program.cs:line 67
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-07-18 19:43:29.924 +03:00 [WRN] The response has already started, the error page middleware will not be executed.
+2022-07-18 19:43:29.926 +03:00 [ERR] Connection id "0HMJ8RIF5GVBP", Request id "0HMJ8RIF5GVBP:00000003": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentEncoding(StringValues value)
+   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\Program.cs:line 67
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware.ExecuteWithFilterAsync(IHttpSocketAdapter injectScriptSocket, String requestId, HttpContext httpContext)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2022-07-18 19:43:29.939 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - - 45.2178ms
+2022-07-18 19:44:21.526 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-07-18 19:44:21.797 +03:00 [INF] Now listening on: https://localhost:7004
+2022-07-18 19:44:21.799 +03:00 [INF] Now listening on: http://localhost:5004
+2022-07-18 19:44:21.803 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-18 19:44:21.805 +03:00 [INF] Hosting environment: Development
+2022-07-18 19:44:21.807 +03:00 [INF] Content root path: D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\
+2022-07-18 19:44:22.561 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 19:44:22.724 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - - 168.1531ms
+2022-07-18 19:44:22.820 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/favicon.ico - -
+2022-07-18 19:44:22.825 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/favicon.ico - - - 200 - - 4.3947ms
+2022-07-18 19:48:38.289 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-07-18 19:48:38.558 +03:00 [INF] Now listening on: https://localhost:7004
+2022-07-18 19:48:38.564 +03:00 [INF] Now listening on: http://localhost:5004
+2022-07-18 19:48:38.582 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-18 19:48:38.584 +03:00 [INF] Hosting environment: Development
+2022-07-18 19:48:38.587 +03:00 [INF] Content root path: D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\
+2022-07-18 19:48:39.261 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 19:48:39.468 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/plain;+charset=UTF-8 211.1532ms
+2022-07-18 19:48:39.546 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/favicon.ico - -
+2022-07-18 19:48:39.550 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/favicon.ico - - - 200 - text/plain;+charset=UTF-8 4.7347ms
+2022-07-18 19:48:46.418 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 19:48:46.471 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-18 19:48:46.529 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller RazorAppCatalog.Controllers.HomeController (RazorAppCatalog).
+2022-07-18 19:48:46.558 +03:00 [INF] Executing ViewResult, running view Index.
+2022-07-18 19:48:46.849 +03:00 [INF] Executed ViewResult - view Index executed in 295.4116ms.
+2022-07-18 19:48:46.867 +03:00 [INF] Executed action RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog) in 330.1828ms
+2022-07-18 19:48:46.872 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-18 19:48:46.881 +03:00 [INF] HTTP GET / responded 200 in 451.6923 ms
+2022-07-18 19:48:46.910 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 492.6496ms
+2022-07-18 19:48:46.930 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 19:48:46.944 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 19:48:46.946 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 16.3856ms
+2022-07-18 19:48:47.027 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 83.4447ms
+2022-07-18 19:48:48.110 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/AddProduct - -
+2022-07-18 19:48:48.118 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 19:48:48.123 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 19:48:48.133 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 19:48:48.160 +03:00 [INF] Executed ViewResult - view AddProduct executed in 28.545ms.
+2022-07-18 19:48:48.163 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 32.6774ms
+2022-07-18 19:48:48.166 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 19:48:48.168 +03:00 [INF] HTTP GET /Catalog/AddProduct responded 200 in 54.0943 ms
+2022-07-18 19:48:48.175 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/AddProduct - - - 200 - text/html;+charset=utf-8 65.0181ms
+2022-07-18 19:48:48.190 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 19:48:48.190 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 19:48:48.195 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 5.3606ms
+2022-07-18 19:48:48.240 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.0666ms
+2022-07-18 20:04:44.037 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-07-18 20:04:44.320 +03:00 [INF] Now listening on: https://localhost:7004
+2022-07-18 20:04:44.322 +03:00 [INF] Now listening on: http://localhost:5004
+2022-07-18 20:04:44.327 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-18 20:04:44.328 +03:00 [INF] Hosting environment: Development
+2022-07-18 20:04:44.330 +03:00 [INF] Content root path: D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\
+2022-07-18 20:04:45.557 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 20:04:45.640 +03:00 [INF] Request:
+
+2022-07-18 20:04:45.660 +03:00 [INF] Response:
+
+2022-07-18 20:04:45.719 +03:00 [INF] ResponseBody: Ваш браузер не поддерживается
+2022-07-18 20:04:45.736 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/plain;+charset=UTF-8 186.0335ms
+2022-07-18 20:04:45.795 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/favicon.ico - -
+2022-07-18 20:04:45.800 +03:00 [INF] Request:
+
+2022-07-18 20:04:45.807 +03:00 [INF] Response:
+
+2022-07-18 20:04:45.812 +03:00 [INF] ResponseBody: Ваш браузер не поддерживается
+2022-07-18 20:04:45.815 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/favicon.ico - - - 200 - text/plain;+charset=UTF-8 19.7861ms
+2022-07-18 20:05:35.095 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 20:05:35.103 +03:00 [INF] Request:
+
+2022-07-18 20:05:35.145 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-18 20:05:35.197 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller RazorAppCatalog.Controllers.HomeController (RazorAppCatalog).
+2022-07-18 20:05:35.217 +03:00 [INF] Executing ViewResult, running view Index.
+2022-07-18 20:05:35.338 +03:00 [INF] Response:
+
+2022-07-18 20:05:35.488 +03:00 [INF] Executed ViewResult - view Index executed in 272.9508ms.
+2022-07-18 20:05:35.501 +03:00 [INF] Executed action RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog) in 299.2902ms
+2022-07-18 20:05:35.505 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-18 20:05:35.511 +03:00 [INF] HTTP GET / responded 200 in 400.4465 ms
+2022-07-18 20:05:35.516 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:05:35.570 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 475.3693ms
+2022-07-18 20:05:35.589 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:05:35.604 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 15.4114ms
+2022-07-18 20:05:35.618 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:05:35.674 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 55.9613ms
+2022-07-18 20:06:39.137 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/AddProduct - -
+2022-07-18 20:06:39.141 +03:00 [INF] Request:
+
+2022-07-18 20:06:39.152 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:06:39.157 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:06:39.174 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 20:06:39.194 +03:00 [INF] Response:
+
+2022-07-18 20:06:39.211 +03:00 [INF] Executed ViewResult - view AddProduct executed in 43.4081ms.
+2022-07-18 20:06:39.214 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 51.2953ms
+2022-07-18 20:06:39.218 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:06:39.220 +03:00 [INF] HTTP GET /Catalog/AddProduct responded 200 in 71.4888 ms
+2022-07-18 20:06:39.226 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Форма добавления товаров в каталог</h1>
+
+<form method="post">
+    Id: <input type="text" name="Id" required />
+    <br/>
+    Название: <input type="text" name="Name" required/>
+    <br/>
+    <input type="submit" name="submit" value="Создать" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8KdbIAkVLrdGnWSdgIFyFDRCL8S97WcXtMyjCYnl1wiULA2WiY_Uia-TpmHzSlwbg0Jnu2AQ9muE4VWj3Zo2emrcXQGC1i0jq7gdD988KgHi9YZdE_RRHDrhVe2F5ye8hTtrII6CU66XvcIB6FM4I3Q" /></form>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:06:39.251 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/AddProduct - - - 200 - text/html;+charset=utf-8 114.0485ms
+2022-07-18 20:06:39.269 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:06:39.269 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:06:39.276 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 6.7184ms
+2022-07-18 20:06:39.336 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 66.6966ms
+2022-07-18 20:06:39.779 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/Products - -
+2022-07-18 20:06:39.783 +03:00 [INF] Request:
+
+2022-07-18 20:06:39.788 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:06:39.796 +03:00 [INF] Route matched with {action = "Products", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Products() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:06:39.803 +03:00 [INF] Executing ViewResult, running view Products.
+2022-07-18 20:06:39.810 +03:00 [INF] Response:
+
+2022-07-18 20:06:39.819 +03:00 [INF] Executed ViewResult - view Products executed in 17.1577ms.
+2022-07-18 20:06:39.824 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog) in 22.0986ms
+2022-07-18 20:06:39.828 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:06:39.832 +03:00 [INF] HTTP GET /Catalog/Products responded 200 in 45.8669 ms
+2022-07-18 20:06:39.836 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x421;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; &#x438;&#x437; &#x43A;&#x430;&#x442;&#x430;&#x43B;&#x43E;&#x433;&#x430; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Всего в каталоге 0 товар(ов)</h1>
+
+<h1>Все товары</h1>
+<table>
+<tr>
+    <th>Id</th>    
+    <th>Name</th>
+</tr>
+ </table>
+                
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:06:39.864 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/Products - - - 200 - text/html;+charset=utf-8 84.5007ms
+2022-07-18 20:06:39.884 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:06:39.884 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:06:39.898 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 14.0437ms
+2022-07-18 20:06:39.953 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 69.2007ms
+2022-07-18 20:06:40.369 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/AddProduct - -
+2022-07-18 20:06:40.374 +03:00 [INF] Request:
+
+2022-07-18 20:06:40.379 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:06:40.382 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:06:40.388 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 20:06:40.396 +03:00 [INF] Response:
+
+2022-07-18 20:06:40.404 +03:00 [INF] Executed ViewResult - view AddProduct executed in 15.8844ms.
+2022-07-18 20:06:40.407 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 18.8616ms
+2022-07-18 20:06:40.410 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:06:40.415 +03:00 [INF] HTTP GET /Catalog/AddProduct responded 200 in 35.9342 ms
+2022-07-18 20:06:40.419 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Форма добавления товаров в каталог</h1>
+
+<form method="post">
+    Id: <input type="text" name="Id" required />
+    <br/>
+    Название: <input type="text" name="Name" required/>
+    <br/>
+    <input type="submit" name="submit" value="Создать" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8KdbIAkVLrdGnWSdgIFyFDT9nk0faCgYW0lrLa9BXyOxi17Gj6MFo2ymdk8HZR3bAW_bag_UorqqF72I6TEDPoBs79xLhgKKAtnua-MZjv7VVDLrM1aBh3PHns9_F_4-WYNLjQ89Ao3_3Z9IsuLdVQc" /></form>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:06:40.445 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/AddProduct - - - 200 - text/html;+charset=utf-8 76.5636ms
+2022-07-18 20:06:40.462 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:06:40.462 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:06:40.469 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 6.5537ms
+2022-07-18 20:06:40.525 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 62.9954ms
+2022-07-18 20:06:42.680 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7004/Catalog/AddProduct application/x-www-form-urlencoded 244
+2022-07-18 20:06:42.687 +03:00 [INF] Request:
+
+2022-07-18 20:06:42.692 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:06:42.718 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddProduct(Product) on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:06:42.950 +03:00 [INF] Продукт успешно добавлен
+2022-07-18 20:06:42.953 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 20:06:42.957 +03:00 [INF] Response:
+
+2022-07-18 20:06:42.969 +03:00 [INF] Executed ViewResult - view AddProduct executed in 15.7956ms.
+2022-07-18 20:06:42.973 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 246.3726ms
+2022-07-18 20:06:42.976 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:06:42.979 +03:00 [INF] HTTP POST /Catalog/AddProduct responded 200 in 286.3348 ms
+2022-07-18 20:06:42.984 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Форма добавления товаров в каталог</h1>
+
+<form method="post">
+    Id: <input type="text" name="Id" required />
+    <br/>
+    Название: <input type="text" name="Name" required/>
+    <br/>
+    <input type="submit" name="submit" value="Создать" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8KdbIAkVLrdGnWSdgIFyFDQX-UhmaaoBXnFhSk9dctGovImkhTjbu25QUAQ64CSorMA653RMtH7clbX34Rl9rLpWOT6KwKu4aMv-5ZhUbX7pdkJWAhnfpKosqlLRD0Ls6RB86637ipSnhWi8sAmQpz4" /></form>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:06:43.007 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7004/Catalog/AddProduct application/x-www-form-urlencoded 244 - 200 - text/html;+charset=utf-8 327.5597ms
+2022-07-18 20:06:43.024 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:06:43.024 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:06:43.029 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 5.2626ms
+2022-07-18 20:06:43.083 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 59.5891ms
+2022-07-18 20:06:43.709 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/Products - -
+2022-07-18 20:06:43.713 +03:00 [INF] Request:
+
+2022-07-18 20:06:43.716 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:06:43.722 +03:00 [INF] Route matched with {action = "Products", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Products() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:06:43.728 +03:00 [INF] Executing ViewResult, running view Products.
+2022-07-18 20:06:43.730 +03:00 [INF] Response:
+
+2022-07-18 20:06:43.744 +03:00 [INF] Executed ViewResult - view Products executed in 16.5696ms.
+2022-07-18 20:06:43.747 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog) in 20.0362ms
+2022-07-18 20:06:43.751 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:06:43.754 +03:00 [INF] HTTP GET /Catalog/Products responded 200 in 37.5214 ms
+2022-07-18 20:06:43.759 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x421;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; &#x438;&#x437; &#x43A;&#x430;&#x442;&#x430;&#x43B;&#x43E;&#x433;&#x430; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Всего в каталоге 1 товар(ов)</h1>
+
+<h1>Все товары</h1>
+<table>
+<tr>
+    <th>Id</th>    
+    <th>Name</th>
+</tr>
+                   <tr>
+                       <td>1</td>                       
+                       <td>2</td>
+                   </tr>
+ </table>
+                
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:06:43.789 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/Products - - - 200 - text/html;+charset=utf-8 78.9398ms
+2022-07-18 20:06:43.804 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:06:43.804 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:06:43.810 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 6.6054ms
+2022-07-18 20:06:43.861 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.0951ms
+2022-07-18 20:07:38.751 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/AddProduct - -
+2022-07-18 20:07:38.754 +03:00 [INF] Request:
+
+2022-07-18 20:07:38.756 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:07:38.763 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:07:38.768 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 20:07:38.771 +03:00 [INF] Response:
+
+2022-07-18 20:07:38.780 +03:00 [INF] Executed ViewResult - view AddProduct executed in 12.0935ms.
+2022-07-18 20:07:38.784 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 15.9524ms
+2022-07-18 20:07:38.787 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:07:38.790 +03:00 [INF] HTTP GET /Catalog/AddProduct responded 200 in 33.6469 ms
+2022-07-18 20:07:38.796 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Форма добавления товаров в каталог</h1>
+
+<form method="post">
+    Id: <input type="text" name="Id" required />
+    <br/>
+    Название: <input type="text" name="Name" required/>
+    <br/>
+    <input type="submit" name="submit" value="Создать" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8KdbIAkVLrdGnWSdgIFyFDR_JMObQqKKvhnnnG22aoKD52nzo_53f5BBBqX3cw-pwQqnMhW0J6bduiJ9Mq7p4LkF0KPi2TIPqsP7Cdbi8EIWRUQPogsPMMmK8OuJuCgkpmse3R096bzs8FDQ-NX8yu8" /></form>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:07:38.817 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/AddProduct - - - 200 - text/html;+charset=utf-8 66.2191ms
+2022-07-18 20:07:38.836 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:07:38.836 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:07:38.841 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 5.5470ms
+2022-07-18 20:07:38.902 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 66.4516ms
+2022-07-18 20:07:47.167 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7004/Catalog/AddProduct application/x-www-form-urlencoded 253
+2022-07-18 20:07:47.172 +03:00 [INF] Request:
+
+2022-07-18 20:07:47.182 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:07:47.185 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddProduct(Product) on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:07:47.191 +03:00 [INF] Продукт успешно добавлен
+2022-07-18 20:07:47.194 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 20:07:47.197 +03:00 [INF] Response:
+
+2022-07-18 20:07:47.204 +03:00 [INF] Executed ViewResult - view AddProduct executed in 10.2814ms.
+2022-07-18 20:07:47.207 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 17.5253ms
+2022-07-18 20:07:47.211 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:07:47.215 +03:00 [INF] HTTP POST /Catalog/AddProduct responded 200 in 32.8840 ms
+2022-07-18 20:07:47.219 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Форма добавления товаров в каталог</h1>
+
+<form method="post">
+    Id: <input type="text" name="Id" required />
+    <br/>
+    Название: <input type="text" name="Name" required/>
+    <br/>
+    <input type="submit" name="submit" value="Создать" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8KdbIAkVLrdGnWSdgIFyFDRW9ZIdiQUBxBZAgveL9Pct2JKQ9_3mQKwR-WTEp62_d8Dd9txc-_Rw889mfgtqRL7Dy7uxgGuMskua4OPLgWNLptnH0pKvsUXhA_1ZcrPFgHOxmKHQ4ceW_3t7Shemxfs" /></form>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:07:47.246 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7004/Catalog/AddProduct application/x-www-form-urlencoded 253 - 200 - text/html;+charset=utf-8 78.8816ms
+2022-07-18 20:07:47.264 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:07:47.264 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:07:47.268 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.1880ms
+2022-07-18 20:07:47.318 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 54.2710ms
+2022-07-18 20:07:47.974 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/Products - -
+2022-07-18 20:07:47.979 +03:00 [INF] Request:
+
+2022-07-18 20:07:47.982 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:07:47.987 +03:00 [INF] Route matched with {action = "Products", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Products() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:07:47.991 +03:00 [INF] Executing ViewResult, running view Products.
+2022-07-18 20:07:47.996 +03:00 [INF] Response:
+
+2022-07-18 20:07:48.003 +03:00 [INF] Executed ViewResult - view Products executed in 11.99ms.
+2022-07-18 20:07:48.007 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog) in 16.1125ms
+2022-07-18 20:07:48.010 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:07:48.012 +03:00 [INF] HTTP GET /Catalog/Products responded 200 in 30.4828 ms
+2022-07-18 20:07:48.017 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x421;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; &#x438;&#x437; &#x43A;&#x430;&#x442;&#x430;&#x43B;&#x43E;&#x433;&#x430; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Всего в каталоге 2 товар(ов)</h1>
+
+<h1>Все товары</h1>
+<table>
+<tr>
+    <th>Id</th>    
+    <th>Name</th>
+</tr>
+                   <tr>
+                       <td>1</td>                       
+                       <td>2</td>
+                   </tr>
+                   <tr>
+                       <td>21</td>                       
+                       <td>Test Work</td>
+                   </tr>
+ </table>
+                
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:07:48.039 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/Products - - - 200 - text/html;+charset=utf-8 64.9040ms
+2022-07-18 20:07:48.054 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:07:48.054 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:07:48.060 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 5.5988ms
+2022-07-18 20:07:48.115 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 61.1452ms
+2022-07-18 20:07:48.573 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/AddProduct - -
+2022-07-18 20:07:48.577 +03:00 [INF] Request:
+
+2022-07-18 20:07:48.581 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:07:48.585 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:07:48.593 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-18 20:07:48.598 +03:00 [INF] Response:
+
+2022-07-18 20:07:48.606 +03:00 [INF] Executed ViewResult - view AddProduct executed in 13.5206ms.
+2022-07-18 20:07:48.610 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 17.7544ms
+2022-07-18 20:07:48.614 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-18 20:07:48.618 +03:00 [INF] HTTP GET /Catalog/AddProduct responded 200 in 37.4966 ms
+2022-07-18 20:07:48.622 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Форма добавления товаров в каталог</h1>
+
+<form method="post">
+    Id: <input type="text" name="Id" required />
+    <br/>
+    Название: <input type="text" name="Name" required/>
+    <br/>
+    <input type="submit" name="submit" value="Создать" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8KdbIAkVLrdGnWSdgIFyFDRHZLEpWPa6Q0ynd4mfgVwK-SHR5y50zTVxpKUzZezlN-oGWJR3WSzi07AAl6dJmwTNdXM5Sa7YGNfc9ittpg2IGuzgWM3RPBuUreBGo7OzjrklGj48lLu_nJRl9iAoQoI" /></form>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:07:48.649 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/AddProduct - - - 200 - text/html;+charset=utf-8 75.8697ms
+2022-07-18 20:07:48.666 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:07:48.666 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:07:48.671 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.9350ms
+2022-07-18 20:07:48.724 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.9236ms
+2022-07-18 20:08:33.757 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/Products - -
+2022-07-18 20:08:33.766 +03:00 [INF] Request:
+
+2022-07-18 20:08:33.771 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:08:33.774 +03:00 [INF] Route matched with {action = "Products", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Products() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:08:33.779 +03:00 [INF] Executing ViewResult, running view Products.
+2022-07-18 20:08:33.783 +03:00 [INF] Response:
+
+2022-07-18 20:08:33.792 +03:00 [INF] Executed ViewResult - view Products executed in 13.5292ms.
+2022-07-18 20:08:33.796 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog) in 16.7355ms
+2022-07-18 20:08:33.798 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:08:33.802 +03:00 [INF] HTTP GET /Catalog/Products responded 200 in 30.7275 ms
+2022-07-18 20:08:33.806 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x421;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; &#x438;&#x437; &#x43A;&#x430;&#x442;&#x430;&#x43B;&#x43E;&#x433;&#x430; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Всего в каталоге 2 товар(ов)</h1>
+
+<h1>Все товары</h1>
+<table>
+<tr>
+    <th>Id</th>    
+    <th>Name</th>
+</tr>
+                   <tr>
+                       <td>1</td>                       
+                       <td>2</td>
+                   </tr>
+                   <tr>
+                       <td>21</td>                       
+                       <td>Test Work</td>
+                   </tr>
+ </table>
+                
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:08:33.832 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/Products - - - 200 - text/html;+charset=utf-8 74.4110ms
+2022-07-18 20:08:33.850 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:08:33.850 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:08:33.854 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.0601ms
+2022-07-18 20:08:33.910 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 59.9932ms
+2022-07-18 20:08:53.091 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/RemoveProduct - -
+2022-07-18 20:08:53.099 +03:00 [INF] Request:
+
+2022-07-18 20:08:53.103 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.RemoveProduct (RazorAppCatalog)'
+2022-07-18 20:08:53.107 +03:00 [INF] Route matched with {action = "RemoveProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RemoveProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:08:53.114 +03:00 [INF] Executing ViewResult, running view RemoveProduct.
+2022-07-18 20:08:53.122 +03:00 [INF] Response:
+
+2022-07-18 20:08:53.130 +03:00 [INF] Executed ViewResult - view RemoveProduct executed in 16.7121ms.
+2022-07-18 20:08:53.133 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.RemoveProduct (RazorAppCatalog) in 19.7638ms
+2022-07-18 20:08:53.137 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.RemoveProduct (RazorAppCatalog)'
+2022-07-18 20:08:53.139 +03:00 [INF] HTTP GET /Catalog/RemoveProduct responded 200 in 36.2296 ms
+2022-07-18 20:08:53.143 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x423;&#x434;&#x430;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Форма удаления товаров из каталога</h1>
+
+<form method="post">
+    Id: <input type="text" name="Id" required />
+    <br/>
+    Название: <input type="text" name="Name" required/>
+    <br/>
+    <input type="submit" name="submit" value="Удалить" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8KdbIAkVLrdGnWSdgIFyFDTTDeUE7L6PUUsd8SN3uY0e9vU68wlI108WdG16LlvgkojFYApniW6PsVD7ajBab42lDJ2MZPtBg2CBaLDhi0Uq3EH7o1wzRelVU4YuruLnSBSynQ3X7NTzaM1npx-EDts" /></form>
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:08:53.168 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/RemoveProduct - - - 200 - text/html;+charset=utf-8 76.5347ms
+2022-07-18 20:08:53.188 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:08:53.188 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:08:53.193 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.9667ms
+2022-07-18 20:08:53.248 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 60.2886ms
+2022-07-18 20:08:53.679 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/ClearCatalog - -
+2022-07-18 20:08:53.683 +03:00 [INF] Request:
+
+2022-07-18 20:08:53.685 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.ClearCatalog (RazorAppCatalog)'
+2022-07-18 20:08:53.689 +03:00 [INF] Route matched with {action = "ClearCatalog", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ClearCatalog() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:08:53.697 +03:00 [INF] Executing ViewResult, running view ClearCatalog.
+2022-07-18 20:08:53.703 +03:00 [INF] Response:
+
+2022-07-18 20:08:53.711 +03:00 [INF] Executed ViewResult - view ClearCatalog executed in 14.2153ms.
+2022-07-18 20:08:53.713 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.ClearCatalog (RazorAppCatalog) in 17.3881ms
+2022-07-18 20:08:53.716 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.ClearCatalog (RazorAppCatalog)'
+2022-07-18 20:08:53.719 +03:00 [INF] HTTP GET /Catalog/ClearCatalog responded 200 in 33.1788 ms
+2022-07-18 20:08:53.724 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x414;&#x43E;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Форма очистки каталога</h1>
+
+<form method="post">    
+    <input type="submit" name="submit" value="Очистить" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8KdbIAkVLrdGnWSdgIFyFDStds2RKwEndIurfw_R0-33j4-9McRH-w8et5iVQhp_DmVUdfQs0qDbZv1LbSolDDltIvhiIK3pnOYJjTpouvuFKO_Hi544Axrv4Eqlhu4iFyRu5_M0Gmw4Pi4qIvi13do" /></form>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:08:53.756 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/ClearCatalog - - - 200 - text/html;+charset=utf-8 76.6668ms
+2022-07-18 20:08:53.774 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:08:53.774 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:08:53.783 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 8.3178ms
+2022-07-18 20:08:53.833 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 59.2196ms
+2022-07-18 20:08:54.672 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 20:08:54.677 +03:00 [INF] Request:
+
+2022-07-18 20:08:54.680 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-18 20:08:54.685 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller RazorAppCatalog.Controllers.HomeController (RazorAppCatalog).
+2022-07-18 20:08:54.690 +03:00 [INF] Executing ViewResult, running view Index.
+2022-07-18 20:08:54.693 +03:00 [INF] Response:
+
+2022-07-18 20:08:54.703 +03:00 [INF] Executed ViewResult - view Index executed in 12.9918ms.
+2022-07-18 20:08:54.706 +03:00 [INF] Executed action RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog) in 16.7288ms
+2022-07-18 20:08:54.709 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-18 20:08:54.715 +03:00 [INF] HTTP GET / responded 200 in 34.8537 ms
+2022-07-18 20:08:54.720 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:08:54.741 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 69.3582ms
+2022-07-18 20:08:54.757 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:08:54.757 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:08:54.762 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 5.6408ms
+2022-07-18 20:08:54.813 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.0615ms
+2022-07-18 20:08:55.137 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Home/Privacy - -
+2022-07-18 20:08:55.141 +03:00 [INF] Request:
+
+2022-07-18 20:08:55.146 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.HomeController.Privacy (RazorAppCatalog)'
+2022-07-18 20:08:55.152 +03:00 [INF] Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller RazorAppCatalog.Controllers.HomeController (RazorAppCatalog).
+2022-07-18 20:08:55.160 +03:00 [INF] Executing ViewResult, running view Privacy.
+2022-07-18 20:08:55.165 +03:00 [INF] Response:
+
+2022-07-18 20:08:55.175 +03:00 [INF] Executed ViewResult - view Privacy executed in 15.5754ms.
+2022-07-18 20:08:55.178 +03:00 [INF] Executed action RazorAppCatalog.Controllers.HomeController.Privacy (RazorAppCatalog) in 19.738ms
+2022-07-18 20:08:55.181 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.HomeController.Privacy (RazorAppCatalog)'
+2022-07-18 20:08:55.183 +03:00 [INF] HTTP GET /Home/Privacy responded 200 in 37.1605 ms
+2022-07-18 20:08:55.190 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><h1>Privacy Policy</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:08:55.212 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Home/Privacy - - - 200 - text/html;+charset=utf-8 75.1646ms
+2022-07-18 20:08:55.228 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:08:55.228 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:08:55.234 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 6.1569ms
+2022-07-18 20:08:55.282 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 54.5912ms
+2022-07-18 20:08:55.573 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/Products - -
+2022-07-18 20:08:55.582 +03:00 [INF] Request:
+
+2022-07-18 20:08:55.587 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:08:55.590 +03:00 [INF] Route matched with {action = "Products", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Products() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-18 20:08:55.597 +03:00 [INF] Executing ViewResult, running view Products.
+2022-07-18 20:08:55.602 +03:00 [INF] Response:
+
+2022-07-18 20:08:55.615 +03:00 [INF] Executed ViewResult - view Products executed in 18.2263ms.
+2022-07-18 20:08:55.618 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog) in 21.2593ms
+2022-07-18 20:08:55.621 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-18 20:08:55.625 +03:00 [INF] HTTP GET /Catalog/Products responded 200 in 37.7600 ms
+2022-07-18 20:08:55.628 +03:00 [INF] ResponseBody: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x421;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x442;&#x43E;&#x432;&#x430;&#x440;&#x43E;&#x432; &#x438;&#x437; &#x43A;&#x430;&#x442;&#x430;&#x43B;&#x43E;&#x433;&#x430; - RazorAppCatalog</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c" />
+    <link rel="stylesheet" href="/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds" />
+</head>
+<body>
+    <header>
+        <nav b-4vdtztgt31 class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-4vdtztgt31 class="container-fluid">
+                <a class="navbar-brand" href="/">RazorAppCatalog</a>
+                <button b-4vdtztgt31 class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-4vdtztgt31 class="navbar-toggler-icon"></span>
+                </button>
+                <div b-4vdtztgt31 class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-4vdtztgt31 class="navbar-nav flex-grow-1">
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/">Home</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Home/Privacy">Privacy</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/Products">Список товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/AddProduct">Добавление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/RemoveProduct">Удаление товаров</a>
+                        </li>
+                        <li b-4vdtztgt31 class="nav-item">
+                            <a class="nav-link text-dark" href="/Catalog/ClearCatalog">Очистить список товаров</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-4vdtztgt31 class="container">
+        <main b-4vdtztgt31 role="main" class="pb-3">
+            
+<div>Твой "Каталог" приветствует тебя!</div><div>Вы находитесь на странице работы с безопасным каталогом</div>
+
+<h1>Всего в каталоге 2 товар(ов)</h1>
+
+<h1>Все товары</h1>
+<table>
+<tr>
+    <th>Id</th>    
+    <th>Name</th>
+</tr>
+                   <tr>
+                       <td>1</td>                       
+                       <td>2</td>
+                   </tr>
+                   <tr>
+                       <td>21</td>                       
+                       <td>Test Work</td>
+                   </tr>
+ </table>
+                
+        </main>
+    </div>
+
+    <footer b-4vdtztgt31 class="border-top footer text-muted">
+        <div b-4vdtztgt31 class="container">
+            &copy; 2022 - (c) VolAnton - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0"></script>
+    
+</body>
+</html>
+
+2022-07-18 20:08:55.652 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/Products - - - 200 - text/html;+charset=utf-8 78.7198ms
+2022-07-18 20:08:55.665 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-18 20:08:55.665 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-18 20:08:55.673 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 8.5856ms
+2022-07-18 20:08:55.714 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.1736ms
+2022-07-18 20:09:16.290 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-18 20:09:16.293 +03:00 [INF] Request:
+
+2022-07-18 20:09:16.295 +03:00 [INF] Response:
+
+2022-07-18 20:09:16.297 +03:00 [INF] ResponseBody: Ваш браузер не поддерживается
+2022-07-18 20:09:16.299 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/plain;+charset=UTF-8 8.9251ms
+2022-07-18 20:09:16.315 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/favicon.ico - -
+2022-07-18 20:09:16.318 +03:00 [INF] Request:
+
+2022-07-18 20:09:16.322 +03:00 [INF] Response:
+
+2022-07-18 20:09:16.324 +03:00 [INF] ResponseBody: Ваш браузер не поддерживается
+2022-07-18 20:09:16.328 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/favicon.ico - - - 200 - text/plain;+charset=UTF-8 13.3440ms
