@@ -1,0 +1,108 @@
+2022-07-17 15:07:31.899 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-07-17 15:07:32.210 +03:00 [INF] Now listening on: https://localhost:7004
+2022-07-17 15:07:32.212 +03:00 [INF] Now listening on: http://localhost:5004
+2022-07-17 15:07:32.218 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-17 15:07:32.220 +03:00 [INF] Hosting environment: Development
+2022-07-17 15:07:32.221 +03:00 [INF] Content root path: D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\
+2022-07-17 15:07:35.306 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-17 15:07:35.454 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-17 15:07:35.475 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/lib/bootstrap/dist/css/bootstrap.min.css - -
+2022-07-17 15:07:35.512 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - -
+2022-07-17 15:07:35.512 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds - -
+2022-07-17 15:07:35.516 +03:00 [INF] The file /css/site.css was not modified
+2022-07-17 15:07:35.516 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-07-17 15:07:35.516 +03:00 [INF] The file /RazorAppCatalog.styles.css was not modified
+2022-07-17 15:07:35.525 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller RazorAppCatalog.Controllers.HomeController (RazorAppCatalog).
+2022-07-17 15:07:35.544 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 304 - text/css 31.3945ms
+2022-07-17 15:07:35.544 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/lib/bootstrap/dist/css/bootstrap.min.css - - - 304 - text/css 68.6589ms
+2022-07-17 15:07:35.544 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/RazorAppCatalog.styles.css?v=1Vp-KNcSuLkSobhqcTymQdiX2d4khGRmOKoVqzHP5ds - - - 304 - text/css 31.3962ms
+2022-07-17 15:07:35.562 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/lib/jquery/dist/jquery.min.js - -
+2022-07-17 15:07:35.564 +03:00 [INF] Executing ViewResult, running view Index.
+2022-07-17 15:07:35.565 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-07-17 15:07:35.571 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/lib/jquery/dist/jquery.min.js - - - 304 - application/javascript 8.8876ms
+2022-07-17 15:07:35.573 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+2022-07-17 15:07:35.573 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2022-07-17 15:07:35.583 +03:00 [INF] The file /js/site.js was not modified
+2022-07-17 15:07:35.584 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-07-17 15:07:35.587 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 304 - application/javascript 14.0705ms
+2022-07-17 15:07:35.588 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 304 - application/javascript 15.4577ms
+2022-07-17 15:07:35.603 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-17 15:07:35.603 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-17 15:07:35.614 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 11.0256ms
+2022-07-17 15:07:35.763 +03:00 [INF] Executed ViewResult - view Index executed in 208.2877ms.
+2022-07-17 15:07:35.783 +03:00 [INF] Executed action RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog) in 243.2198ms
+2022-07-17 15:07:35.787 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-17 15:07:35.794 +03:00 [INF] HTTP GET / responded 200 in 398.9034 ms
+2022-07-17 15:07:35.796 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 193.3409ms
+2022-07-17 15:07:35.837 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 539.2045ms
+2022-07-17 15:07:35.852 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-17 15:07:35.853 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-17 15:07:35.857 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.5366ms
+2022-07-17 15:07:35.911 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.6505ms
+2022-07-17 15:07:37.544 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/AddProduct - -
+2022-07-17 15:07:37.549 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-17 15:07:37.553 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddProduct() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-17 15:07:37.560 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-17 15:07:37.587 +03:00 [INF] Executed ViewResult - view AddProduct executed in 28.1749ms.
+2022-07-17 15:07:37.590 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 31.2014ms
+2022-07-17 15:07:37.592 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-17 15:07:37.593 +03:00 [INF] HTTP GET /Catalog/AddProduct responded 200 in 46.6749 ms
+2022-07-17 15:07:37.600 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/AddProduct - - - 200 - text/html;+charset=utf-8 55.4593ms
+2022-07-17 15:07:37.616 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-17 15:07:37.616 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-17 15:07:37.620 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.6501ms
+2022-07-17 15:07:37.667 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 52.0657ms
+2022-07-17 15:07:40.074 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7004/Catalog/AddProduct application/x-www-form-urlencoded 245
+2022-07-17 15:07:40.080 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-17 15:07:40.106 +03:00 [INF] Route matched with {action = "AddProduct", controller = "Catalog"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddProduct(Product) on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-17 15:07:40.359 +03:00 [INF] Продукт успешно добавлен
+2022-07-17 15:07:40.361 +03:00 [INF] Executing ViewResult, running view AddProduct.
+2022-07-17 15:07:40.373 +03:00 [INF] Executed ViewResult - view AddProduct executed in 11.6953ms.
+2022-07-17 15:07:40.375 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog) in 264.3906ms
+2022-07-17 15:07:40.377 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.AddProduct (RazorAppCatalog)'
+2022-07-17 15:07:40.380 +03:00 [INF] HTTP POST /Catalog/AddProduct responded 200 in 301.3375 ms
+2022-07-17 15:07:40.385 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7004/Catalog/AddProduct application/x-www-form-urlencoded 245 - 200 - text/html;+charset=utf-8 311.1482ms
+2022-07-17 15:07:40.400 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-17 15:07:40.400 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-17 15:07:40.404 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 3.6378ms
+2022-07-17 15:07:40.452 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.5116ms
+2022-07-17 15:07:41.128 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/Catalog/Products - -
+2022-07-17 15:07:41.131 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-17 15:07:41.134 +03:00 [INF] Route matched with {action = "Products", controller = "Catalog"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Products() on controller RazorAppCatalog.Controllers.CatalogController (RazorAppCatalog).
+2022-07-17 15:07:41.139 +03:00 [INF] Executing ViewResult, running view Products.
+2022-07-17 15:07:41.150 +03:00 [INF] Executed ViewResult - view Products executed in 11.6561ms.
+2022-07-17 15:07:41.152 +03:00 [INF] Executed action RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog) in 13.9615ms
+2022-07-17 15:07:41.154 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.CatalogController.Products (RazorAppCatalog)'
+2022-07-17 15:07:41.156 +03:00 [INF] HTTP GET /Catalog/Products responded 200 in 24.9590 ms
+2022-07-17 15:07:41.162 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/Catalog/Products - - - 200 - text/html;+charset=utf-8 33.8951ms
+2022-07-17 15:07:41.175 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-17 15:07:41.175 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-17 15:07:41.178 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 2.9181ms
+2022-07-17 15:07:41.222 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.8770ms
+2022-07-17 16:50:35.486 +03:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-07-17 16:50:35.755 +03:00 [INF] Now listening on: https://localhost:7004
+2022-07-17 16:50:35.757 +03:00 [INF] Now listening on: http://localhost:5004
+2022-07-17 16:50:35.763 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-17 16:50:35.765 +03:00 [INF] Hosting environment: Development
+2022-07-17 16:50:35.767 +03:00 [INF] Content root path: D:\VS_Projects_Creator\GB_ASP.NET MVC Core\Lesson_9\RazorAppCatalog\
+2022-07-17 16:50:36.530 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/ - -
+2022-07-17 16:50:36.676 +03:00 [INF] Executing endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-17 16:50:36.727 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller RazorAppCatalog.Controllers.HomeController (RazorAppCatalog).
+2022-07-17 16:50:36.750 +03:00 [INF] Executing ViewResult, running view Index.
+2022-07-17 16:50:36.786 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-17 16:50:36.802 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-17 16:50:36.810 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 21.7159ms
+2022-07-17 16:50:36.928 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 126.7568ms
+2022-07-17 16:50:36.938 +03:00 [INF] Executed ViewResult - view Index executed in 193.9408ms.
+2022-07-17 16:50:36.951 +03:00 [INF] Executed action RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog) in 220.0965ms
+2022-07-17 16:50:36.955 +03:00 [INF] Executed endpoint 'RazorAppCatalog.Controllers.HomeController.Index (RazorAppCatalog)'
+2022-07-17 16:50:36.961 +03:00 [INF] HTTP GET / responded 200 in 341.1423 ms
+2022-07-17 16:50:36.994 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/ - - - 200 - text/html;+charset=utf-8 470.4174ms
+2022-07-17 16:50:37.011 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-17 16:50:37.011 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-17 16:50:37.015 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 3.8027ms
+2022-07-17 16:50:37.063 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.5583ms
+2022-07-17 16:50:38.362 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - -
+2022-07-17 16:50:38.364 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7004/_vs/browserLink - -
+2022-07-17 16:50:38.366 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 3.6929ms
+2022-07-17 16:50:38.410 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7004/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.5965ms

@@ -1,0 +1,18 @@
+﻿@model Metric
+
+@{
+    ViewData["Title"] = "Список собранных метрик";
+}
+
+<h1>Все метрики</h1>
+<table>
+<tr>        
+    <th>Наименование (адрес страницы: кол-во переходов)</th>    
+</tr>
+ @foreach (var svc in Model.GetAll())
+                {
+                   <tr>                                              
+                       <td>@svc</td>                       
+                   </tr>
+                }
+ </table>           
